@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.Kalkulatorsederhana" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- Use Theme.Kalkulator to match AndroidManifest.xml -->
+    <!-- Use Theme.AppCompat as parent for AppCompatActivity compatibility -->
+    <style name="Theme.Kalkulator" parent="Theme.AppCompat.Light.NoActionBar" />
 </resources>

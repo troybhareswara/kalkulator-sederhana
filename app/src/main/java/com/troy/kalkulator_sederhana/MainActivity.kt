@@ -1,4 +1,4 @@
-package com.example.kalkulator_sederhana
+package com.troy.kalkulator_sederhana
 
 import android.os.Bundle
 import android.util.Log
